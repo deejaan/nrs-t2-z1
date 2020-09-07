@@ -5,23 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cdb932d9-7e58-4d94-93a9-e7b232ef17da" name="Default" comment="Rename projekta">
-      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fxml/pretraga.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/resources/fxml/znamenitosti.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/PretragaController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Znamenitost.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/ZnamenitostController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/JavaFXApp.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/baza.db" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/baza.db.sql" beforeDir="false" afterPath="$PROJECT_DIR$/baza.db.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/fxml/grad.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/fxml/grad.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rpr19-2parc-1t.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NRS-vj1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/net_sf_jasperreports_jasperreports_6_12_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradoviReport.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NRS-vj1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/NRS-vj1.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NRS-vj1/ba/unsa/etf/rpr/GeografijaDAO.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NRS-vj1/ba/unsa/etf/rpr/GeografijaDAO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NRS-vj1/ba/unsa/etf/rpr/GlavnaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NRS-vj1/ba/unsa/etf/rpr/GlavnaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/NRS-vj1/fxml/glavna.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/NRS-vj1/fxml/glavna.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/fxml/glavna.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/fxml/glavna.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -96,37 +89,30 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/baza.db.sql">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="276">
-              <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-10">
-              <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+            <state relative-caret-position="1174">
+              <caret line="154" selection-start-line="154" selection-end-line="154" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java">
+        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1059">
-              <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
+            <state relative-caret-position="253">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradoviReport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="268">
+              <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
               <folding>
-                <element signature="e#515#516#0" expanded="true" />
-                <element signature="e#551#552#0" expanded="true" />
-                <element signature="e#606#607#0" expanded="true" />
-                <element signature="e#656#657#0" expanded="true" />
-                <element signature="e#1402#1403#0" expanded="true" />
-                <element signature="e#1437#1438#0" expanded="true" />
-                <element signature="e#1509#1510#0" expanded="true" />
-                <element signature="e#1557#1558#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -135,35 +121,30 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="118" column="20" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-91">
-              <caret line="37" column="99" selection-start-line="37" selection-start-column="99" selection-end-line="37" selection-end-column="99" />
+            <state relative-caret-position="1403">
+              <caret line="65" column="29" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="29" />
+              <folding>
+                <element signature="e#3337#3338#0" expanded="true" />
+                <element signature="e#3364#3365#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/fxml/znamenitosti.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="19">
+            <state relative-caret-position="989">
               <caret line="43" column="12" selection-end-line="53" />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/ZnamenitostController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="139">
+            <state relative-caret-position="828">
               <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -177,51 +158,45 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/PretragaController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+            <state relative-caret-position="920">
+              <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#129#130#0" expanded="true" />
-                <element signature="e#164#165#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/resources/fxml/pretraga.fxml">
-          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
           <provider editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+            <state relative-caret-position="828">
+              <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
             </state>
           </provider>
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/resources/fxml/glavna.fxml">
+          <provider editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Znamenitost.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-804">
+            <state relative-caret-position="161">
               <caret line="7" selection-start-line="7" selection-end-line="7" />
               <folding>
-                <element signature="e#389#390#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#447#448#0" expanded="true" />
                 <element signature="e#475#476#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
+                <element signature="e#503#504#0" expanded="true" />
                 <element signature="e#535#536#0" expanded="true" />
-                <element signature="e#577#578#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#643#644#0" expanded="true" />
-                <element signature="e#671#672#0" expanded="true" />
+                <element signature="e#563#564#0" expanded="true" />
+                <element signature="e#678#679#0" expanded="true" />
                 <element signature="e#713#714#0" expanded="true" />
-                <element signature="e#747#748#0" expanded="true" />
-                <element signature="e#776#777#0" expanded="true" />
-                <element signature="e#803#804#0" expanded="true" />
-                <element signature="e#841#842#0" expanded="true" />
+                <element signature="e#846#847#0" expanded="true" />
                 <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#919#920#0" expanded="true" />
-                <element signature="e#952#953#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -232,8 +207,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="FxmlFile" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -247,6 +222,9 @@
       <replace>'</replace>
       <replace>znamenitost</replace>
     </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/resources</dir>
+    </dirStrings>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -263,12 +241,15 @@
         <option value="$PROJECT_DIR$/resources/fxml/grad.fxml" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/Znamenitost.java" />
-        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java" />
         <option value="$PROJECT_DIR$/baza.db.sql" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/ZnamenitostController.java" />
         <option value="$PROJECT_DIR$/resources/fxml/pretraga.fxml" />
         <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/PretragaController.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java" />
+        <option value="$PROJECT_DIR$/resources/fxml/glavna.fxml" />
+        <option value="$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradoviReport.java" />
       </list>
     </option>
   </component>
@@ -293,28 +274,34 @@
         <subPane>
           <expand>
             <path>
-              <item name="NRS-vj1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NRS-vj1" type="462c0819:PsiDirectoryNode" />
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NRS-vj1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NRS-vj1" type="462c0819:PsiDirectoryNode" />
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NRS-vj1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NRS-vj1" type="462c0819:PsiDirectoryNode" />
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
               <item name="fxml" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NRS-vj1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NRS-vj1" type="462c0819:PsiDirectoryNode" />
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="reports" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="NRS-vj1" type="b2602c69:ProjectViewProjectNode" />
-              <item name="NRS-vj1" type="462c0819:PsiDirectoryNode" />
+              <item name="nrs-t2-z1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nrs-t2-z1" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="rpr" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -339,14 +326,15 @@
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
     <property name="OverrideImplement.combined" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1593884720118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1594058198359" />
     <property name="dynamic.classpath" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
@@ -504,6 +492,10 @@
       <workItem from="1359379250712" duration="1302000" />
       <workItem from="1593784498070" duration="4882000" />
       <workItem from="1593873364681" duration="9148000" />
+      <workItem from="1594054874324" duration="2493000" />
+      <workItem from="1594658239048" duration="599000" />
+      <workItem from="1595430271431" duration="1198000" />
+      <workItem from="1599486824277" duration="2195000" />
     </task>
     <task id="LOCAL-00001" summary="Initial import">
       <created>1579258425293</created>
@@ -535,13 +527,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15332000" />
+    <option name="totallyTimeSpent" value="21817000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1366" height="741" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18863636" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20075758" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -550,7 +542,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2676519" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2676519" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -644,68 +636,29 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/fxml/grad.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
         <state>
           <caret selection-end-line="58" selection-end-column="11" />
         </state>
       </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/fxml/drzava.fxml">
-      <provider editor-type-id="JavaFX-Scene-Builder" />
       <provider selected="true" editor-type-id="text-editor" />
+      <provider editor-type-id="JavaFX-Scene-Builder" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java">
+    <entry file="file://$PROJECT_DIR$/baza.db.sql">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Znamenitost.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-804">
-          <caret line="7" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="e#389#390#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#447#448#0" expanded="true" />
-            <element signature="e#475#476#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-            <element signature="e#535#536#0" expanded="true" />
-            <element signature="e#577#578#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
-            <element signature="e#671#672#0" expanded="true" />
-            <element signature="e#713#714#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-            <element signature="e#776#777#0" expanded="true" />
-            <element signature="e#803#804#0" expanded="true" />
-            <element signature="e#841#842#0" expanded="true" />
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#919#920#0" expanded="true" />
-            <element signature="e#952#953#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/fxml/znamenitosti.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="43" column="12" selection-end-line="53" />
+        <state relative-caret-position="759">
+          <caret line="33" column="59" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Grad.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1059">
+        <state relative-caret-position="1058">
           <caret line="70" column="5" selection-start-line="70" selection-start-column="5" selection-end-line="70" selection-end-column="5" />
           <folding>
-            <element signature="e#515#516#0" expanded="true" />
-            <element signature="e#551#552#0" expanded="true" />
-            <element signature="e#606#607#0" expanded="true" />
-            <element signature="e#656#657#0" expanded="true" />
             <element signature="e#1402#1403#0" expanded="true" />
             <element signature="e#1437#1438#0" expanded="true" />
             <element signature="e#1509#1510#0" expanded="true" />
@@ -714,37 +667,42 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="118" column="20" selection-start-line="118" selection-start-column="20" selection-end-line="118" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/baza.db.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="33" column="59" lean-forward="true" selection-start-line="33" selection-start-column="59" selection-end-line="33" selection-end-column="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-91">
+        <state relative-caret-position="414">
           <caret line="37" column="99" selection-start-line="37" selection-start-column="99" selection-end-line="37" selection-end-column="99" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java">
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-10">
-          <caret line="94" column="32" lean-forward="true" selection-start-line="94" selection-start-column="32" selection-end-line="94" selection-end-column="32" />
+        <state relative-caret-position="253">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GeografijaDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1403">
+          <caret line="65" column="29" selection-start-line="65" selection-start-column="22" selection-end-line="65" selection-end-column="29" />
+          <folding>
+            <element signature="e#3337#3338#0" expanded="true" />
+            <element signature="e#3364#3365#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fxml/znamenitosti.fxml">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="989">
+          <caret line="43" column="12" selection-end-line="53" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/ZnamenitostController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="139">
+        <state relative-caret-position="828">
           <caret line="50" column="41" selection-start-line="50" selection-start-column="41" selection-end-line="50" selection-end-column="41" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -756,21 +714,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/PretragaController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
+        <state relative-caret-position="920">
+          <caret line="53" column="22" selection-start-line="53" selection-start-column="22" selection-end-line="53" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#129#130#0" expanded="true" />
-            <element signature="e#164#165#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/resources/fxml/pretraga.fxml">
-      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
       <provider editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="36" column="43" lean-forward="true" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        <state relative-caret-position="828">
+          <caret line="36" column="43" selection-start-line="36" selection-start-column="43" selection-end-line="36" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/fxml/glavna.fxml">
+      <provider editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="JavaFX-Scene-Builder" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/Znamenitost.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#475#476#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#535#536#0" expanded="true" />
+            <element signature="e#563#564#0" expanded="true" />
+            <element signature="e#678#679#0" expanded="true" />
+            <element signature="e#713#714#0" expanded="true" />
+            <element signature="e#846#847#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GlavnaController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1174">
+          <caret line="154" selection-start-line="154" selection-end-line="154" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ba/unsa/etf/rpr/GradoviReport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="12" column="69" selection-start-line="12" selection-start-column="69" selection-end-line="12" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -828,7 +822,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>rpr19-2parc-1t</last-edited>
+          <last-edited>NRS-vj1</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -841,7 +835,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib</last-edited>
+          <last-edited>net.sf.jasperreports:jasperreports:6.12.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

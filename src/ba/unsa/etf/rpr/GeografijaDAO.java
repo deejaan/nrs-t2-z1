@@ -63,6 +63,10 @@ public class GeografijaDAO {
 
     }
 
+    public Connection getConn() {
+        return conn;
+    }
+
     public static void removeInstance() {
         if (instance == null) return;
         instance.close();
